@@ -1,6 +1,6 @@
 ---
 date: 2020-09-26
-thumbnail: ''
+thumbnail: "/uploads/shirtartsycyan.png"
 title: screenshot
 categories:
 - illustration
