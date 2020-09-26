@@ -3,8 +3,8 @@ date: 2020-09-26
 thumbnail: "/uploads/bildschirmfoto-2018-10-24-um-16-30-38.png"
 title: screenshot
 categories: []
-project_bg_color: ''
-project_fg_color: ''
+project_bg_color: "#35EDF4"
+project_fg_color: "#000000"
 
 ---
 This screenshot is a magnificent piece of art.
