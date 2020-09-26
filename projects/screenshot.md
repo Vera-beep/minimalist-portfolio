@@ -2,7 +2,8 @@
 date: 2020-09-26
 thumbnail: "/uploads/bildschirmfoto-2018-10-24-um-16-30-38.png"
 title: screenshot
-categories: []
+categories:
+- illustration
 project_bg_color: "#35EDF4"
 project_fg_color: "#000000"
 
