@@ -13,6 +13,7 @@
             <nav class="nav right">
                 <g-link class="nav__link" :to="{ name: 'home' }">WORK</g-link>
                 <g-link class="nav__link" to="/contact">SAY HI!</g-link>
+                <g-link class="nav__link" to="https://www.instagram.com/efef_v/">IG</g-link>
             </nav>
         </div>
     </header>
