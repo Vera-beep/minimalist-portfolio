@@ -4,15 +4,15 @@
             <div class="left">
                 <g-link :to="{ name: 'home' }" class="home-link">
                     <img
-                            src="../../static/logo.svg"
+                            src="../../static/logo.png"
                             :alt="settings.site_name"
                             class="logo"
                     />
                 </g-link>
             </div>
             <nav class="nav right">
-                <g-link class="nav__link" :to="{ name: 'home' }">Work</g-link>
-                <g-link class="nav__link" to="/contact">Say Hi!</g-link>
+                <g-link class="nav__link" :to="{ name: 'home' }">WORK</g-link>
+                <g-link class="nav__link" to="/contact">SAY HI!</g-link>
             </nav>
         </div>
     </header>
@@ -22,7 +22,7 @@
     export default {
         data() {
             return {
-                logo: require("../../static/logo.svg"),
+                logo: require("../../static/logo.png"),
                 settings: require("../../data/theme.json")
             }
         }
@@ -55,7 +55,8 @@
     }
 
     .logo {
-        height: 1.5rem;
+        height: 2rem;
+        margin-top: 27px;
     }
 
     .site-name {
@@ -67,7 +68,7 @@
     }
 
     .nav > * {
-        font-size: 0.9rem;
+        font-size: 14px;
         font-weight: 600;
         letter-spacing: 4px;
         text-decoration: none;
@@ -87,7 +88,7 @@
         border-color: inherit;
     }
 
-    .nav > .active {
-        border-color: inherit;
-    }
+    /*.nav > .active {*/
+    /*    border-color: inherit;*/
+    /*}*/
 </style>
