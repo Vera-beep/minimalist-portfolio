@@ -2,12 +2,9 @@
     <header class="header" :class="{sticky: $route.path === '/' || $route.path.includes('/projects/')}">
         <div class="container">
             <div class="left">
-                <g-link :to="{ name: 'home' }" class="home-link">
-                    <img
-                            src="../../static/logo.png"
-                            :alt="settings.site_name"
-                            class="logo"
-                    />
+                <g-link :to="{ name: 'home' }" class="logo">
+                    V<br>D
+                    <!--                    <img src="../../static/logo.png" :alt="settings.site_name" class="logo"/>-->
                 </g-link>
             </div>
             <nav class="nav right">
@@ -23,7 +20,7 @@
     export default {
         data() {
             return {
-                logo: require("../../static/logo.png"),
+                // logo: require("../../static/logo.png"),
                 settings: require("../../data/theme.json")
             }
         }
@@ -56,8 +53,11 @@
     }
 
     .logo {
-        height: 2rem;
-        margin-top: 27px;
+        font-size: 14px;
+        font-weight: 600;
+        text-decoration: none;
+        position: absolute;
+        top: 2.55rem;
     }
 
     .site-name {
@@ -74,7 +74,7 @@
         letter-spacing: 4px;
         text-decoration: none;
         margin-top: 4px;
-        margin-right: 3rem;
+        margin-right: 2rem;
         padding-bottom: 4px;
         border-bottom: 1px solid;
         border-color: transparent;
