@@ -67,6 +67,7 @@ export default {
 }
 .project-title {
   font-size: 4rem;
+  font-weight: lighter;
   margin: 0 0 4rem 0;
   padding: 0;
 }
