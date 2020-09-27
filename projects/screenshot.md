@@ -1,7 +1,7 @@
 ---
 date: 2020-09-26
 thumbnail: "/uploads/shirtartsycyan.png"
-title: screenshot
+title: About
 categories:
 - illustration
 project_bg_color: "#35EDF4"
