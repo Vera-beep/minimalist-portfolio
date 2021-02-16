@@ -9,6 +9,6 @@ project_bg_color: "#F8F06F"
 project_fg_color: ''
 
 ---
-## MURAL 
+## MURAL
 
 ![](/uploads/mural2.jpg)![](/uploads/mural3.jpg)
