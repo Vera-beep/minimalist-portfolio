@@ -11,8 +11,6 @@ project_fg_color: "#FFFFFF"
 ---
 ## OOOOOOOOOOOOOOO
 
-###### 
-
 vera daffner is a graphic designer and illustrator based in augsburg/germany.
 
 currently open for collaborative projects, freelancing or just teaming up for fun.
