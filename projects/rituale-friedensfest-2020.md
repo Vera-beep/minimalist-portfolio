@@ -1,6 +1,6 @@
 ---
 date: 2021-02-16
-thumbnail: "/uploads/muraltransparent_zeichenflache-1.png"
+thumbnail: "/uploads/muralthumb2_zeichenflache-1.png"
 title: '"rituale" friedensfest 2020'
 categories:
 - mural
@@ -11,6 +11,4 @@ project_fg_color: "#7FC0D4"
 ---
 ##### ![](/uploads/mural1.jpg)mural
 
-##### collaboration artwork with EVA KRUSCHE for friedensstadt augsburg 2020
-
-![](/uploads/ritualedigital.png)
+##### collaboration artwork with EVA KRUSCHE for friedensstadt augsburg 2020![](/uploads/muraltransparent_zeichenflache-1.png)
