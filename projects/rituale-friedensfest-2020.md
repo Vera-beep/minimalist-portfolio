@@ -1,6 +1,6 @@
 ---
 date: 2021-02-16
-thumbnail: "/uploads/muralthumb2_zeichenflache-1.png"
+thumbnail: "/uploads/rituale.gif"
 title: '"rituale" friedensfest 2020'
 categories:
 - mural
