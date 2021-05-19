@@ -5,8 +5,14 @@ title: About
 categories:
 - about
 - vera
-project_bg_color: ''
-project_fg_color: ''
+project_bg_color: "#B163FF"
+project_fg_color: "#FFFFFF"
 
 ---
-## Hi I am Vera
+##  
+
+###### hi
+
+vera daffner is a graphic designer and illustrator based in augsburg/germany.
+
+currently open for collaboratons, freelancing or just teaming up for fun.
