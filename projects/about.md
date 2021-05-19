@@ -9,7 +9,7 @@ project_bg_color: "#B163FF"
 project_fg_color: "#FFFFFF"
 
 ---
-## OOOOOOOOOOOOOOO
+## hi
 
 vera daffner is a graphic designer and illustrator based in augsburg/germany.
 
