@@ -1,14 +1,12 @@
 ---
 date: 2021-02-16
-thumbnail: "/uploads/mural3.jpg"
-title: '"Rituale"Friedensfest 2020'
+thumbnail: "/uploads/ritualedigital.png"
+title: '"rituale" friedensfest 2020'
 categories:
 - mural
 - " illustration"
-project_bg_color: "#F8F06F"
-project_fg_color: ''
+project_bg_color: "#000000"
+project_fg_color: "#7FC0D4"
 
 ---
 ## MURAL
-
-![](/uploads/mural2.jpg)![](/uploads/mural3.jpg)
