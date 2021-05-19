@@ -1,6 +1,6 @@
 ---
 date: 2020-09-27
-thumbnail: "/uploads/webabout_zeichenflache-1-2.png"
+thumbnail: "/uploads/aboutthumb.png"
 title: About
 categories:
 - about
