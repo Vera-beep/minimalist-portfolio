@@ -1,6 +1,6 @@
 ---
 label: Theme configuration
-hide_body: false
+hide_body: true
 fields:
 - type: text
   name: site_name
