@@ -16,3 +16,5 @@ project_fg_color: "#7FC0D4"
 "rituals"2020
 
 collaboration with [EVA KRUSCHE](http://evakrusche.de/) for [friedensstadt augsburg ](https://www.friedensstadt-augsburg.de/)
+
+mural artwork and illustration for web/print advertising
