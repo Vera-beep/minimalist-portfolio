@@ -1,6 +1,6 @@
 ---
 label: Theme configuration
-hide_body: true
+hide_body: flase
 fields:
 - type: text
   name: site_name
