@@ -1,6 +1,6 @@
 ---
 date: 2020-09-27
-thumbnail: "/uploads/shirtartsycyan.png"
+thumbnail: "/uploads/about_zeichenflache-1.png"
 title: About
 categories:
 - about
