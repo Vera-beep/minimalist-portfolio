@@ -5,7 +5,7 @@ title: '"rituale" friedensfest 2020'
 categories:
 - mural
 - " illustration"
-project_bg_color: "#000000"
+project_bg_color: "#FFFFFF"
 project_fg_color: "#7FC0D4"
 
 ---
