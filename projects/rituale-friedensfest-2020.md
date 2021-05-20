@@ -9,9 +9,9 @@ project_bg_color: "#FFFFFF"
 project_fg_color: "#7FC0D4"
 
 ---
-##### ![](/uploads/muraltransparent_zeichenflache-1.png)
+##### ![composition of abstract and concrete elements in different bright colors](/uploads/muraltransparent_zeichenflache-1.png 'illustration "rituals"')
 
-![](/uploads/mural1.jpg)
+![fotography of a colorful painted building](/uploads/mural1.jpg 'mural "rituals"')
 
 "rituals"2020
 
