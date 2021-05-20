@@ -47,7 +47,7 @@
         height: 560px;
         object-fit: cover;
         transition: all 0.15s ease;
-        box-shadow: 0 0 40px -20px rgba(0, 0, 0, 0.25);
+        /* box-shadow: 0 0 40px -20px rgba(0, 0, 0, 0.25); */
     }
 
     .project-title {
