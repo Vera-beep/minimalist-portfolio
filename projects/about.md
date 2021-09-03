@@ -1,10 +1,9 @@
 ---
 date: 2020-09-27
-thumbnail: "/uploads/aboutthumb.png"
-title: About
+thumbnail: "/uploads/hi_zeichenflache-1-2.png"
+title: say hi
 categories:
 - about
-- vera
 project_bg_color: "#B163FF"
 project_fg_color: "#FFFFFF"
 
