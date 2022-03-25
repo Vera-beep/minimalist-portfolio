@@ -1,6 +1,6 @@
 ---
 date: 2020-09-27
-thumbnail: ''
+thumbnail: "/uploads/hi_zeichenflache-1-2.png"
 title: vera daffner
 categories:
 - about
