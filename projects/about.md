@@ -1,6 +1,6 @@
 ---
 date: 2020-09-27
-thumbnail: "/uploads/about.mp4"
+thumbnail: ''
 title: vera daffner
 categories:
 - about
