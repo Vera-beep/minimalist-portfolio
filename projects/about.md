@@ -1,7 +1,7 @@
 ---
 date: 2020-09-27
-thumbnail: "/uploads/about.gif"
-title: say hi
+thumbnail: "/uploads/about.mp4"
+title: vera daffner
 categories:
 - about
 project_bg_color: "#B163FF"
