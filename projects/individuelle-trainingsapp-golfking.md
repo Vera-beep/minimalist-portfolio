@@ -1,6 +1,6 @@
 ---
 date: 2022-03-25
-thumbnail: "/uploads/thumb-gk.png"
+thumbnail: ''
 title: individuelle Trainingsapp GolfKing
 categories:
 - UX Design
