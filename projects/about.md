@@ -10,8 +10,6 @@ project_fg_color: "#FFFFFF"
 ---
 ## hi
 
-    <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script><lottie-player src="https://assets2.lottiefiles.com/packages/lf20_21wfyzda.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop controls autoplay></lottie-player>
-
 vera daffner is a graphic designer and illustrator based in augsburg/germany.
 
 currently curious and learning all about UX an UI design, looking for input, inspiration and jobs.
