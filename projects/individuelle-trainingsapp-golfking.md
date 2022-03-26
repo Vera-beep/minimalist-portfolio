@@ -1,6 +1,6 @@
 ---
 date: 2022-03-25
-thumbnail: "/uploads/tumbnailgk.png"
+thumbnail: "/uploads/tumbnailgk-1.png"
 title: personal golf training app
 categories:
 - " UI"
