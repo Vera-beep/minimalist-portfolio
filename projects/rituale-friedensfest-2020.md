@@ -9,7 +9,7 @@ project_bg_color: "#FFFFFF"
 project_fg_color: "#7FC0D4"
 
 ---
-##### ![](/uploads/ritualegif-1.gif)
+##### ![](/uploads/muraltransparent_zeichenflache-1.png)
 
 ![fotography of a colorful painted building](/uploads/mural1.jpg 'mural "rituals"')
 
