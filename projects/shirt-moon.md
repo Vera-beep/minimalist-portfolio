@@ -1,6 +1,6 @@
 ---
 date: 2022-03-27
-thumbnail: "/uploads/tumbshirt-1.png"
+thumbnail: "/uploads/thumbnailshirt.png"
 title: shirt moon
 categories:
 - " shirt design"
