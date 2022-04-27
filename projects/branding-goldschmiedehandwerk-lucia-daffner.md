@@ -11,8 +11,8 @@ project_bg_color: ''
 project_fg_color: "#023AC2"
 
 ---
-![](/uploads/bussinescard-1.png)![](/uploads/landing-pageweb.png)
+![bussines card design for a small jewellery label, stationary design, branding](/uploads/bussinescard-1.png "bussines card design")![responsive landing page for a small jewellery label, webdesign, ui ux design](/uploads/landing-pageweb.png "landing page design for desktop")
 
-![](/uploads/branding.png)![](/uploads/mobileweb.png)
+![branding for a small jewellery label, corporate identity design, CI](/uploads/branding.png "corporate identity design ")![responsive landing page for a small jewellery label, webdesign, ui ux design ](/uploads/mobileweb.png "landing page design for mobile")
 
 Branding for a small jewellery label. Redesign of the logo an look i created in 2019 with additional web design.
