@@ -1,7 +1,7 @@
 ---
 date: 2022-04-27
 thumbnail: "/uploads/thumbnail.png"
-title: Branding Goldschmiedehandwerk Lucia Daffner
+title: Goldschmiedehandwerk Lucia Daffner
 categories:
 - branding
 - webdesign
@@ -20,3 +20,5 @@ project_fg_color: "#023AC2"
 ![responsive landing page for a small jewellery label, webdesign, ui ux design ](/uploads/mobileweb.png "landing page design for mobile")
 
 Branding for a small jewellery label. Redesign of the logo an look i created in 2019 with additional web design.
+
+tools: AdobeIllustrator, AdobePhotoshop, AdobeIndesign, Figma
