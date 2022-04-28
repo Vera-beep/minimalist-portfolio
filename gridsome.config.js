@@ -2,11 +2,11 @@
 // Learn more: https://gridsome.org/docs/config
 
 module.exports = {
-  siteName: "Vera Daffner Illustrations",
+  siteName: "Vera Daffner graphic design",
   siteUrl: `https://www.veradaffner.com`,
   host: "0.0.0.0",
   titleTemplate: "%s",
-  siteDescription: "Creative technologist",
+  siteDescription: "Creative technologist, Graphics, Branding, UI/UX",
   plugins: [
     {
       use: "@gridsome/source-filesystem",
